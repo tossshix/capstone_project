@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "forest_ml"
+version = "0.1.0"
+description = "My capstone project"
+authors = ["tossshix"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/tossshix/"
+repository = "https://github.com/tossshix/capstone"
+keywords = ["hypermodern"]
+
+[tool.poetry.scripts]
+train = "forest_ml.train:train"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+click = "^8.1.3"
+pandas = "^1.4.2"
+sklearn = "^0.0"
+scikit-learn = "^1.0.2"
+mlflow = "^1.25.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = "^22.3.0"
+mypy = "^0.950"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
