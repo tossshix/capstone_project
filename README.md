@@ -18,3 +18,4 @@ poetry run train --help
 My model with different hyperparameteres
 ```
 ![image](screen\hyper.jpg)
+<img src = "screen\hyper.jpg")
