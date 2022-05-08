@@ -14,3 +14,7 @@ poetry run train -d <path to csv with data> -s <path to save trained model>
 You can configure additional options in CLI. To get a full list of them, use help:
 ```bash
 poetry run train --help
+```
+My model with different hyperparameteres
+```
+![image](D:\capstone\screen\hype.jpg)
