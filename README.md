@@ -17,4 +17,4 @@ poetry run train --help
 ```
 My model with different hyperparameteres
 ```
-![image](screen\hype.jpg)
+![image](screen\hyper.jpg)
