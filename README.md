@@ -17,5 +17,5 @@ poetry run train --help
 ```
 My model with different hyperparameteres
 ```
-![image](screen\hyper.jpg)
+![image](https://www.ixbt.com/img/n1/news/2019/5/3/chrome-73-mode-sombre-android_large.jpg)
 <img src = "screen\hyper.jpg")
