@@ -15,7 +15,5 @@ You can configure additional options in CLI. To get a full list of them, use hel
 ```bash
 poetry run train --help
 ```
-My model with different hyperparameteres
-```
-![image](https://www.ixbt.com/img/n1/news/2019/5/3/chrome-73-mode-sombre-android_large)
-<img src = "screen\hyper.jpg")
+The screenshot of mlflow ui with different sets of hyperparameteres is in the "screen" folder
+Thank you for checking me and good luck!
